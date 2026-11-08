@@ -1,0 +1,16 @@
+# Dataset images (download from Kaggle; do not commit)
+data/chest_xray/
+*.jpg
+*.jpeg
+*.png
+
+# Model checkpoints
+*.h5
+*.keras
+*.pth
+checkpoints/
+
+# Misc
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
